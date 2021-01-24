@@ -3,6 +3,8 @@
 $ pkg update
 $ Pkg upgrade
 $ Pkg install git
+$ pkg install python
+$ pkg install wget
 $ git clone https://github.com/07septiembre/termux_mp3.git
 $ cd termux_mp3
 $ chmod 777 *
