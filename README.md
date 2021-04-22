@@ -1,5 +1,5 @@
 #termux_mp3
-script para descargar musica de youtube.
+#script para descargar musica de youtube.
 
 #comandos a instalar:
 # pkg update
