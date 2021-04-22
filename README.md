@@ -1,15 +1,17 @@
-# termux_mp3
+#termux_mp3
+script para descargar musica de youtube.
 
-$ pkg update
-$ Pkg upgrade
-$ Pkg install git
-$ pkg install python
-$ pkg install wget
-$ git clone https://github.com/07septiembre/termux_mp3.git
-$ cd termux_mp3
-$ chmod 777 *
-$ bash install.sh
-$ bash mp3.sh
+#comandos a instalar:
+# pkg update
+# Pkg upgrade
+# Pkg install git
+# pkg install python
+# pkg install wget
+# git clone https://github.com/07septiembre/termux_mp3.git
+# cd termux_mp3
+# chmod 777 *
+# bash install.sh
+# bash mp3.sh
 
 🌹sҽαղ Եօժօs ճíҽղѵҽղíժօs 🌹
 
