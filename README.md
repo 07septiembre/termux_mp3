@@ -1,8 +1,11 @@
 #termux_mp3 script para descargar musica de youtube.
 
 #comandos a instalar:
+
 # pkg update
-# Pkg upgrade
+# pkg upgrade
+# pkg install ruby
+# gem install lolcat
 # Pkg install git
 # pkg install python
 # pkg install wget
