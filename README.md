@@ -6,7 +6,7 @@
 # pkg upgrade
 # pkg install ruby
 # gem install lolcat
-# Pkg install git
+# pkg install git
 # pkg install python
 # pkg install wget
 # git clone https://github.com/07septiembre/termux_mp3.git
